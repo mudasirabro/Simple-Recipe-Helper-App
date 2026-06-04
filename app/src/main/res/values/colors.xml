@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette -->
+    <color name="primary_blue">#2563EB</color>
+    <color name="primary_blue_dark">#1D4ED8</color>
+    <color name="light_blue">#DBEAFE</color>
+    <color name="blue_50">#EFF6FF</color>
+
+    <!-- Success -->
+    <color name="green_primary">#16A34A</color>
+    <color name="green_hover">#15803D</color>
+
+    <!-- Neutrals -->
+    <color name="gray_50">#F9FAFB</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_300">#D1D5DB</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_900">#111827</color>
+
+    <!-- Error -->
+    <color name="red_500">#EF4444</color>
+    <color name="red_600">#DC2626</color>
+
+    <!-- Legacy compat for theme -->
+    <color name="colorPrimary">#2563EB</color>
+    <color name="colorPrimaryVariant">#1D4ED8</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#16A34A</color>
+</resources>
+
+
